@@ -1,5 +1,19 @@
 ## Support me
 
-You can use the [editor on GitHub](https://github.com/marpme/marpme.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+All addresses are validated and working properly. Yes if you want to support me send me some coins and I will have a good time due to your great donation!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### bitcoin (btc)
+
+`bc1qc6s3zgm9r932zhftwcep8phlwnhgfuuk7p6l6h`
+
+### ethereum (eth)
+
+`0xe4263fA32BF2623609245dC795cD98193D968a40`
+
+### verge (xvg)
+
+`DMxCdo49K7mMwjfNqV99k1bp4jE4EPPAfQ`
+
+### digibyte (dgb)
+
+`DDAYd58mZgSqMf4H9M3diLE14Rzw8XSz7k`
